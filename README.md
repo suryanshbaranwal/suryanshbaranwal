@@ -1,81 +1,159 @@
-# 👋 Hi, I'm Suryansh Baranwal
+<!-- ===================== HEADER ===================== -->
 
-### 💻 Computer Science (AI/ML) Student | Machine Learning | Generative AI | Software Development
+<div align="center">
 
-I'm a Computer Science student passionate about building practical solutions using **Artificial Intelligence, Machine Learning, and Software Development**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Suryansh%20Baranwal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-I enjoy working on ML models, intelligent applications, data-driven solutions, and modern web technologies.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Science+(AI%2FML)+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+%7C+RAG+Explorer;Python+%7C+Java+%7C+SQL;Building+AI-powered+Applications" />
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=suryanshbaranwal&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 
-- 🎓 Computer Science (AI/ML) Student
-- 🤖 Interested in Machine Learning & Deep Learning
-- 🧠 Exploring Generative AI, RAG & NLP
-- 💻 Strong interest in Python, Java & SQL
-- 🌐 Interested in Full-Stack Development
-- 📊 Interested in Data Analytics & Visualization
-- 🚀 Building practical AI-powered projects
-- 🎯 Preparing for Software Development & AI/ML opportunities
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👋 About Me
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🎓 **Computer Science (AI/ML) Student** passionate about Artificial Intelligence and software development.
 
-### 🤖 AI / Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+🤖 I enjoy building **Machine Learning, Deep Learning and AI-powered applications**.
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+🧠 Currently exploring **Generative AI, RAG, NLP and intelligent systems**.
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+💻 I work with **Python, Java, SQL and modern development tools**.
+
+🚀 My goal is to transform ideas into **practical, scalable and user-focused solutions**.
 
 ---
 
-## 🚀 Featured Projects
+# ⚡ What I Do
+
+<div align="center">
+
+| 🤖 Artificial Intelligence | 💻 Software Development | 📊 Data & Analytics |
+| :---: | :---: | :---: |
+| Machine Learning | Python | Data Analysis |
+| Deep Learning | Java | Data Preprocessing |
+| Generative AI | SQL | Visualization |
+| NLP & RAG | Web Development | Power BI |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://www.java.com/">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>
+<a href="#">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+### 🌐 Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,github,docker" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/suryanshbaranwal/plant-disease-prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=plant-disease-prediction&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/suryanshbaranwal/SmartBhoomi">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=SmartBhoomi&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
 
 ### 🌿 Plant Disease Prediction
-Deep learning-based application for identifying plant diseases from leaf images using a CNN/transfer-learning model.
+
+Deep learning application that analyzes plant leaf images and predicts possible diseases using a trained image classification model.
 
 **Tech:** Python • TensorFlow • Keras • Streamlit
 
-🔗 [View Project](https://github.com/suryanshbaranwal/plant-disease-prediction)
+🔗 **[GitHub Repository →](https://github.com/suryanshbaranwal/plant-disease-prediction)**  
+🌐 **[Live Demo →](https://suryansh-plant-disease-prediction.streamlit.app/)**
 
 ---
 
+### 🌾 SmartBhoomi
 
-### 🔗 SmartBhoomi
-Blockchain-based agricultural supply-chain platform focused on transparency, traceability and secure product tracking.
+Blockchain-based agricultural supply-chain platform focused on **transparency, traceability and secure product tracking** across the agricultural ecosystem.
 
 **Tech:** Blockchain • Web Development • UI/UX
 
+🔗 **[GitHub Repository →](https://github.com/suryanshbaranwal/SmartBhoomi)**  
+🌐 **[Live Demo →](https://smart-bhoomi.vercel.app/)**
 
-## 📊 Areas of Interest
+---
+
+# 🧠 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-4285F4?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=suryanshbaranwal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshbaranwal&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=suryanshbaranwal&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 💡 Developer Mindset
 
 ```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Generative AI
-Retrieval-Augmented Generation (RAG)
-Natural Language Processing
-Data Analytics
-Software Development
+Learn → Build → Test → Improve → Repeat 🚀
