@@ -153,6 +153,20 @@ Blockchain-based agricultural supply-chain platform focused on **transparency, t
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suryanshbaranwal/suryanshbaranwal/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suryanshbaranwal/suryanshbaranwal/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/suryanshbaranwal/suryanshbaranwal/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
 # 💡 Developer Mindset
 
 ```text
