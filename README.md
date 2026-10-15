@@ -85,13 +85,17 @@
 
 <div align="center">
 
-<a href="https://github.com/suryanshbaranwal/plant-disease-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=plant-disease-prediction&theme=tokyonight&hide_border=true" />
-</a>
+  <a href="https://github.com/suryanshbaranwal/text-to-sql-rag-chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=text-to-sql-rag-chatbot&theme=tokyonight&hide_border=true" />
+  </a>
 
-<a href="https://github.com/suryanshbaranwal/SmartBhoomi">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=SmartBhoomi&theme=tokyonight&hide_border=true" />
-</a>
+  <a href="https://github.com/suryanshbaranwal/plant-disease-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=plant-disease-prediction&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/suryanshbaranwal/SmartBhoomi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=suryanshbaranwal&repo=SmartBhoomi&theme=tokyonight&hide_border=true" />
+  </a>
 
 </div>
 
