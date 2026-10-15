@@ -96,6 +96,16 @@
 </div>
 
 ---
+### 🤖 Text-to-SQL RAG Chatbot
+
+An AI-powered chatbot that converts natural-language questions into SQL queries and retrieves relevant information from a MySQL database. It provides an interactive interface for querying data, viewing generated SQL, and analyzing results through an analytics dashboard.
+
+**Tech Stack:** Python • Streamlit • Groq API • LangChain • MySQL • SQLAlchemy • PyMySQL • Pandas
+
+🔗 [GitHub Repository](https://github.com/suryanshbaranwal/text-to-sql-rag-chatbot)
+🌐 [Live Demo](https://text-to-sql-rag-chatbot-sb-as.streamlit.app)
+
+---
 
 ### 🌿 Plant Disease Prediction
 
@@ -118,6 +128,7 @@ Blockchain-based agricultural supply-chain platform focused on **transparency, t
 🌐 **[Live Demo →](https://smart-bhoomi.vercel.app/)**
 
 ---
+
 
 # 🧠 Currently Exploring
 
